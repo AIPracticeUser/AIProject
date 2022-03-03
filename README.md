@@ -100,7 +100,7 @@ And by testing two of the most popular Transfer learning models (ResNet and Effi
 6. A general list of the Nutrition facts with calories included, breakdown of calories and the list of the possible ingredients for the current predicted food
 7. If the predicted food is a fruit, it will capture the calories directly from google website with BeautifulSoup web scraping and display on the web app
 8. Camera function has been added that allows to work on any laptops and smartphones with camera attached
-9. *Work in Progress* A feedback function is included to gather feedback from the users. This is to determine how accurate our application will be in real world scenario and able to amend the mistakes pointed out by the users.
+9. *Work in Progress* A feedback function is included to gather feedback from the users with results stored in database through SQL. This is to determine how accurate our application will be in real world scenario and able to amend the mistakes pointed out by the users.
 ![image](https://user-images.githubusercontent.com/100339175/156597202-75402bc7-2a1f-48e0-8472-acd0ace927f5.png)
 ![image](https://user-images.githubusercontent.com/100339175/156597443-27061254-74cc-4a15-9566-8f2e17561d47.png)
 
