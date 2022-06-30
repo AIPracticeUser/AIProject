@@ -1,7 +1,7 @@
 # Singapore-Food-Image-Classification
 
 For more in-depth information, please refer to the pdf https://github.com/AIPracticeUser/Singapore-Food-Image-Classification/raw/main/singapore_food_image_classification.pdf
-For testing out the web application, please visit https://share.streamlit.io/aipracticeuser/application/main/sg_food.py
+For testing out the web application, please visit https://aipracticeuser-application-sg-food-gxvvoy.streamlitapp.com/
 Note that you can use the above link on your phone and testing out with your phone's camera
 
 ### Problem Statement
